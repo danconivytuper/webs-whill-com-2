@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://danconivytuper.github.io/webs-whill-com-2/sitemap.xml
